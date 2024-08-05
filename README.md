@@ -34,7 +34,7 @@ The game board is a grid of characters, which can vary in size and shape. The bo
 - `state.h`: Defines the `game_state_t` and `snake_t` structs.
 - `state.c`, `snake.c`, `custom_tests.c`: Implement the game logic and tests.
 
-This project is based on UCB CS61C project 1, you can check their [official project website](https://cs61c.org/fa19/proj1/)](https://cs61c.org/su24/projects/proj1/) to get more guidance.
+This project is based on UCB CS61C project 1, you can check their [official project website](https://cs61c.org/fa19/proj1/) to get more guidance.
 
 To get start, you can first create your own git repository and enter the following on your terminal :
 
