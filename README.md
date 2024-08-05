@@ -1,7 +1,3 @@
-Sure! Here's an updated README incorporating your details:
-
----
-
 # Snakes
 
 This project implements a classic Snake game, represented by a grid of characters. The grid contains walls, fruits, and one or more snakes, each with its own direction and behavior.
